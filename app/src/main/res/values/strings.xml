@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Luxury Hotel</string>
+
+    <string name="hotels_name">Nama Hotel</string>
+    <string name="hotels_location">Lokasi Hotel</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="content_description_media">Content Image</string>
+    <string name="profile">Profile</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="my_name">Rahmat Wahyuma Akbar</string>
+    <string name="my_email">rahmatwahyumaakbar@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="hotel_names">
+        <item>Burj Al Arab</item>
+        <item>The Ritz Paris</item>
+        <item>The Peninsula</item>
+        <item>Four Seasons Bali</item>
+        <item>Mandarin Oriental Bangkok</item>
+        <item>Hotel Bel-Air</item>
+        <item>Singita Sabi Sand</item>
+        <item>Claridge\'s</item>
+        <item>Hotel Adlon Kempinski</item>
+        <item>Shangri-La Hotel</item>
+        <item>InterContinental Sydney</item>
+        <item>Fogo Island Inn</item>
+        <item>St. Regis New York</item>
+        <item>Le Meurice</item>
+        <item>Marina Bay Sands</item>
+    </string-array>
+
+    <string-array name="hotel_images">
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Burj_Al_Arab%2C_Dubai%2C_by_Joi_Ito_Dec2007.jpg/1200px-Burj_Al_Arab%2C_Dubai%2C_by_Joi_Ito_Dec2007.jpg</item>
+        <item>https://mybeautifulparis.com/uploads/images/IMG_5600.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/12/The_Peninsula.jpg</item>
+        <item>https://i.pinimg.com/originals/f0/fa/3c/f0fa3c43fb8bd90c5080bb19cf9f8ba4.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mandarin_Oriental_Bangkok_Bang_Rak.jpg/1200px-Mandarin_Oriental_Bangkok_Bang_Rak.jpg</item>
+        <item>https://galavante.com/wp-content/uploads/2022/09/Hotel-Bel-Air-Walkway.jpeg</item>
+        <item>https://images.ctfassets.net/wds1hqrprqxb/5Ihf8bxX7e46fd0lLNcd0h/0abbaf7e94ffc6378ea3f26439759aa7/home_grid_Boulders.jpg</item>
+        <item>https://media.cntraveller.com/photos/611bea67704875486571976d/master/w_1600%2Cc_limit/lobby-at-claridges-hotel-london-conde-nast-traveller-20dec16-pr.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Hotel_Adlon_%28Berlin%29.jpg/640px-Hotel_Adlon_%28Berlin%29.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/2a/cf/36/62/shangri-la-hotel-jakarta.jpg</item>
+        <item>https://wpassets.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2022/08/24032008/121205_SYD_INTERCON_N3_screenhd-768x1000.jpg</item>
+        <item>https://reportergourmet.com/upload/vieni_in_viaggio_con_me/67/copertina-fogo-island.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/ce/5_Av_Mar_2021_43.jpg</item>
+        <item>https://www.alainducasse-meurice.com/sites/default/files/boxes/restaurant-le-meurice-alain-ducasse-hr-mark-read.jpg</item>
+        <item>https://i.pinimg.com/474x/65/62/69/6562690d39dcfac1e6ce6e081f103d54.jpg</item>
+    </string-array>
+
+    <string-array name="hotel_regions">
+        <item>Dubai, UEA</item>
+        <item>Paris, Prancis</item>
+        <item>Hong Kong</item>
+        <item>Bali, Indonesia</item>
+        <item>Bangkok, Thailand</item>
+        <item>Los Angeles, AS</item>
+        <item>Kruger, Afrika Selatan</item>
+        <item>London, Inggris</item>
+        <item>Berlin, Jerman</item>
+        <item>Sydney, Australia</item>
+        <item>Newfoundland, Kanada</item>
+        <item>New York, AS</item>
+        <item>Paris, Prancis</item>
+        <item>Singapura</item>
+        <item>New Delhi, India</item>
+    </string-array>
+
+    <string-array name="hotel_descriptions">
+        <item>Burj Al Arab, yang menjulang megah di atas garis pantai Dubai, adalah simbol kemewahan sejati. Dengan desain ikoniknya yang menyerupai layar kapal, hotel ini tidak hanya menawarkan akomodasi mewah, tetapi juga pengalaman yang tak tertandingi. Layanan pribadi yang luar biasa dan perhatian pada detail membuat setiap tamu merasa istimewa. Nikmati hidangan di restoran yang terletak di atas, sambil menikmati pemandangan spektakuler dari teluk yang memukau, menjadikan setiap momen di sini tak terlupakan.</item>
+        <item>The Ritz Paris, terletak di jantung kota Paris yang romantis, adalah lambang kemewahan dan keanggunan. Dekorasi yang menawan dengan sentuhan klasik menciptakan suasana yang menawan. Dikenal karena layanan yang sempurna, setiap aspek dari pengalaman menginap di sini dirancang untuk memanjakan para tamu. Nikmati waktu bersantai di taman yang indah, atau manjakan diri Anda dengan pengalaman kuliner yang luar biasa di restoran berbintang Michelin, yang menjadikan The Ritz Paris sebagai destinasi yang wajib dikunjungi.</item>
+        <item>The Peninsula Hong Kong tidak hanya menawarkan pemandangan indah Victoria Harbour, tetapi juga pengalaman layanan bintang lima yang tak tertandingi. Hotel ini terkenal dengan tradisi teh sore yang elegan, di mana Anda dapat menikmati beragam teh pilihan dan makanan ringan yang menggugah selera. Selain itu, fasilitas spa yang luar biasa di sini memberikan ketenangan dan relaksasi yang sempurna, menjadikan setiap kunjungan sebagai pelarian dari hiruk-pikuk kota.</item>
+        <item>Four Seasons Bali adalah surga tropis yang dikelilingi oleh pemandangan alam yang menakjubkan. Dengan layanan luar biasa dan perhatian pada detail, setiap tamu diperlakukan seperti raja. Kolam renang pribadi dan akses langsung ke pantai berpasir putih yang memukau menjadikan resor ini tempat ideal untuk bersantai dan menikmati keindahan alam. Apakah Anda memilih untuk bersantai di tepi kolam atau menjelajahi keindahan pulau, Four Seasons Bali menawarkan pengalaman yang benar-benar tak terlupakan.</item>
+        <item>Mandarin Oriental Bangkok menawarkan pemandangan spektakuler Sungai Chao Phraya yang berkilau, serta spa yang mewah untuk relaksasi maksimal. Hotel ini dikenal dengan pengalaman kuliner yang luar biasa, dengan berbagai restoran berbintang yang menyajikan masakan lokal dan internasional. Dari teh sore yang elegan hingga makan malam yang memanjakan, setiap pengalaman kuliner di sini dirancang untuk menggugah selera dan menciptakan kenangan berharga bagi para tamu.</item>
+        <item>Hotel Bel-Air adalah oasis eksklusif di jantung Los Angeles, dikelilingi oleh taman yang rimbun dan kolam renang yang menawan. Dengan layanan yang ramah dan perhatian pada detail, hotel ini memberikan suasana santai yang sempurna untuk bersantai dan mengisi ulang energi. Nikmati makan malam di teras yang indah atau bersantai dengan segelas anggur di dalam kamar yang dirancang dengan elegan. Hotel Bel-Air adalah tempat di mana kenyamanan dan kemewahan bertemu dengan kehangatan.</item>
+        <item>Singita Sabi Sand menawarkan pengalaman safari mewah yang membawa Anda lebih dekat dengan keindahan alam liar Afrika. Dengan akomodasi yang mewah dan panduan ahli yang berpengalaman, setiap tamu dapat menjelajahi keajaiban alam secara langsung. Saksikan satwa liar di habitat aslinya dan nikmati kenyamanan luar biasa di dalam lodge yang dirancang dengan cermat. Ini adalah pengalaman yang akan membekas dalam ingatan dan memberikan perspektif baru tentang keindahan bumi.</item>
+        <item>Claridge\'s di London adalah simbol gaya dan kemewahan, terkenal dengan tradisi teh sore yang legendaris. Dengan lokasi strategis di pusat kota, hotel ini adalah titik awal yang sempurna untuk menjelajahi semua keindahan yang ditawarkan London. Setiap sudut hotel dipenuhi dengan sejarah dan keanggunan, menjadikan pengalaman menginap di sini lebih dari sekadar akomodasi, tetapi sebuah perjalanan kembali ke masa lalu yang glamor.</item>
+        <item>Hotel Adlon Kempinski di Berlin adalah tempat di mana sejarah dan kemewahan modern bertemu. Terletak hanya beberapa langkah dari Brandenburger Tor, hotel ini menawarkan pengalaman yang kaya akan budaya dan kenyamanan. Dengan layanan yang sangat istimewa dan fasilitas yang lengkap, setiap tamu akan merasakan sentuhan eksklusif yang membuat menginap di sini menjadi pengalaman yang luar biasa.</item>
+        <item>Shangri-La Hotel Sydney menawarkan pemandangan pelabuhan yang menakjubkan dan fasilitas yang dirancang untuk memanjakan setiap tamu. Dengan akses mudah ke atraksi terkenal, hotel ini adalah pilihan ideal untuk menjelajahi kota. Nikmati pengalaman bersantap yang luar biasa dengan berbagai pilihan restoran yang menyajikan hidangan lokal dan internasional, atau bersantai di spa yang menenangkan untuk pengalaman yang memanjakan.</item>
+        <item>InterContinental Sydney adalah destinasi yang sempurna untuk menjelajahi keindahan kota, dengan pemandangan indah pelabuhan Sydney dan akses langsung ke Opera House. Fasilitas modern dan layanan yang ramah menciptakan suasana nyaman bagi para tamu. Nikmati waktu bersantai di teras dengan pemandangan yang menakjubkan, atau nikmati pengalaman kuliner yang luar biasa di restoran hotel yang menyajikan masakan khas Australia.</item>
+        <item>Fogo Island Inn terletak di pulau terpencil di Newfoundland, menawarkan pemandangan luar biasa dan pengalaman unik yang tak terlupakan. Desain modern yang terinspirasi oleh alam dan lingkungan sekitar membuat hotel ini sangat istimewa. Dengan fokus pada keberlanjutan dan keterlibatan komunitas, setiap tamu diajak untuk menikmati keindahan alam yang menakjubkan sambil merasakan kehangatan budaya lokal.</item>
+        <item>St. Regis New York adalah hotel ikonik yang menawarkan layanan istimewa dan desain elegan. Terletak di jantung kota, hotel ini menjadi pilihan sempurna bagi para pelancong yang mencari pengalaman mewah. Dengan layanan butler yang siap memenuhi setiap kebutuhan Anda, St. Regis New York menjanjikan kenyamanan dan kemewahan yang tak tertandingi, menjadikan setiap momen di sini menjadi kenangan berharga.</item>
+        <item>Le Meurice di Paris adalah perwujudan kemewahan, menggabungkan seni klasik dengan pengalaman kuliner yang luar biasa. Dengan pemandangan taman Tuileries yang indah, hotel ini tidak hanya menawarkan akomodasi yang mewah tetapi juga pengalaman budaya yang kaya. Nikmati hidangan yang disiapkan oleh koki terkenal dunia dan jelajahi keindahan kota Paris dari lokasi yang sangat strategis.</item>
+        <item>Marina Bay Sands di Singapura dikenal dengan kolam renang atap ikonik yang menawarkan pemandangan kota yang menakjubkan. Hotel ini adalah tujuan wisata tersendiri, dengan berbagai restoran dan hiburan yang membuat setiap kunjungan menjadi pengalaman unik. Saksikan keindahan kota saat matahari terbenam dari ketinggian, dan nikmati fasilitas kelas dunia yang menjadikan Marina Bay Sands sebagai salah satu hotel paling terkenal di dunia.</item>
+    </string-array>
+
+
+</resources>
